@@ -376,37 +376,37 @@ body,
 #app li,
 #app td,
 #app th {
-    color: #123D29 !important;
+    color: #75e0ae !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #092719 !important;
+    color: #75e0ae !important;
 }
 
 small,
 .m,
 .muted {
-    color: #28543A !important;
+    color: #75e0ae !important;
 }
 
 input,
 select,
 textarea {
-    color: #123D29 !important;
-    background: #EAF5ED !important;
+    color: #75e0ae!important;
+    background: #75e0ae!important;
 }
 
 button,
 button.s,
 button.a {
-    color: #092719 !important;
+    color: #75e0ae !important;
 }
 
 .nv {
-    color: #123D29 !important;
+    color: #75e0ae !important;
 }
 
 ::placeholder {
-    color: #52745E !important;
+    color: #75e0ae!important;
     opacity: 1;
 }
