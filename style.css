@@ -421,7 +421,7 @@ body, #app, #app p, #app span, #app label, #app small,
 
 #app h1, #app h2, #app h3, #app h4,
 .page-title, .card-title, .login h1, .sb-brand {
-  color: #104a30 !important;
+  color: #80f0be !important;
 }
 
 #app p, #app small, .m, label small, .empty {
@@ -435,7 +435,7 @@ a:hover { color: #084326 !important; }
   color: #315b43 !important;
 }
 .nv:hover, .nv[aria-current=page] {
-  color: #104a30 !important;
+  color: #80f0be !important;
   background: #d8efdd !important;
 }
 
